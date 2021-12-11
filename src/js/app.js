@@ -39,7 +39,6 @@ App = {
       content.hide();
       // Load account data
       web3.eth.getCoinbase(function(err, account) {
-      //web3.eth.getAccounts(function(err,accounts){
           if (err === null) {
             console.log(account);
           App.account = account;
@@ -94,7 +93,7 @@ App = {
                 return instance.addCandidate(candidateName, { from: App.account });
               }
           ).then(function(result) {
-          // Wait for votes to update
+          // Wait for candidates to update
           $("#content").hide();
           $("#loader").show();
           }).catch(function(err) {
