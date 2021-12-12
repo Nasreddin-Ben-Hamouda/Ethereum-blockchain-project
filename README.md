@@ -14,6 +14,10 @@ the page displayed for accounts 1 and 2
 
 ![Screenshot_select-area_20211211173119](https://user-images.githubusercontent.com/36990824/145684985-6e101799-36b8-4ee8-9142-0ec4751f14e9.png)
 
+the confirmation of add candidate transaction
+
+![Screenshot_select-area_20211212164946](https://user-images.githubusercontent.com/36990824/145719419-5138f4e8-d551-4855-8980-f438e237b400.png)
+
 the table result after adding candidate
 
 ![Screenshot_select-area_20211211175409](https://user-images.githubusercontent.com/36990824/145685056-9b60acbd-cb05-4ee2-9648-3d331cd66178.png)
